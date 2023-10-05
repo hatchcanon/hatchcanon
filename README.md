@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hatchcanon
-- 👀 I’m interested in cloud, blockchain
-- 🌱 I’m currently learning kubernetes
+- 👀 I’m interested in AWS, Azure, GCP
+- 🌱 I’m currently learning Container Orchestration with Kubernetes
 - 💞️ I’m looking to collaborate on anything cloud related
 - 📫 You can reach me on Twitter and my website.
 
